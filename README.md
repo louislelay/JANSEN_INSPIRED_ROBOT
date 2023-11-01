@@ -4,7 +4,7 @@ This is the CAD (Computer-Aided Design) representation of the robot, meticulousl
 
 The core of this project is in the 'squelette' folder, a key component in the design process. In SOLIDWORKS, an 'SLDAM' file typically signifies an assembly file, a digital environment where multiple parts and components are methodically arranged to construct a complex structure, such as a robot. The 'squelette.SLDAM' assembly file served as the primary source, housing the fundamental building blocks and mechanical elements that form the robot's core framework.
 
-[![Squelette](image/squelette.mp4)](image/squelette.mp4)
+[![Squelette](images/squelette.mp4)](images/squelette.mp4)
 
 To achieve a higher level of detail and precision, the next step involved extracting individual part files from 'squelette.SLDAM.' SOLIDWORKS allows for the creation of separate part files for each constituent element of the robot. These part files capture intricate details, geometric properties, and specific features of each component, enabling in-depth analysis and modification.
 
