@@ -3,14 +3,15 @@
 This is the CAD (Computer-Aided Design) representation of the robot, meticulously created and designed using the powerful and versatile software tool, SOLIDWORKS. CAD, in this context, refers to the digital embodiment of the robot, offering a comprehensive 3D model that serves as the foundation for its physical realization and operational functionalities.
 
 
-
 https://github.com/louislelay/JANSEN_INSPIRED_ROBOT/assets/62947045/ab520816-cb69-4874-b1d6-fa517b35b281
 
 
 
-[![Video Title](https://img.youtube.com/vi/o-tGp5pezWQ/0.jpg)](https://www.youtube.com/watch?v=o-tGp5pezWQ)
-
 The core of this project is in the 'squelette' folder, a key component in the design process. In SOLIDWORKS, an 'SLDAM' file typically signifies an assembly file, a digital environment where multiple parts and components are methodically arranged to construct a complex structure, such as a robot. The 'squelette.SLDAM' assembly file served as the primary source, housing the fundamental building blocks and mechanical elements that form the robot's core framework.
+
+
+https://github.com/louislelay/JANSEN_INSPIRED_ROBOT/assets/62947045/83052dec-2f3d-4fdc-a42e-627a55bd86f7
+
 
 To achieve a higher level of detail and precision, the next step involved extracting individual part files from 'squelette.SLDAM.' SOLIDWORKS allows for the creation of separate part files for each constituent element of the robot. These part files capture intricate details, geometric properties, and specific features of each component, enabling in-depth analysis and modification.
 
